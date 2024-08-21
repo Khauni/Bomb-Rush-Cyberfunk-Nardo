@@ -9,4 +9,5 @@
 ```
 Spring: Khauni's Nardo (My own)
 Summer: Default Nardo
+Autumn: Conehead's Nardo
 ```
